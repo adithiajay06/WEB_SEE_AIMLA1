@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusConnect – College Event Management (Frontend)
 
 React + Vite frontend with dummy data. No backend, no Supabase.
@@ -93,3 +94,6 @@ dashed "role" dropdown in the navbar to switch instantly. Try opening
   (the `ProtectedRoute` guard is UI-only).
 - Replace `QRTicket` with a real generator (e.g. `qrcode.react`) and `QRScanner`
   with a camera library (e.g. `html5-qrcode`).
+=======
+# WEB_SEE_AIMLA1
+>>>>>>> f5e713ae032fb16cfeb9862944ce577ae948894f
